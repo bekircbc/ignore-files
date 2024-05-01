@@ -2,6 +2,8 @@
 
 ## .gitignore
 
+        node_modules/
+
 ## .dockerignore
 
         node_modules/
